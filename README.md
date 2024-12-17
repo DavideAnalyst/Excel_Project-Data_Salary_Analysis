@@ -8,4 +8,4 @@ I have also analyzed the pay range for various data positions.
 
 ![Skills per job](https://github.com/user-attachments/assets/306b2ef1-ff14-441a-99db-126ad3d7800b)
 ![Top Skills Data job](https://github.com/user-attachments/assets/d9c4ae04-0065-4e0e-8520-aabe4c4fa726)
-![Screenshot 2024-12-17 182054](https://github.com/user-attachments/assets/abe723e0-f271-42e3-b896-01fee6536eff)
+![Screenshot 2024-12-17 182843](https://github.com/user-attachments/assets/19058ed6-993d-4f64-843d-d279aeff2749)
